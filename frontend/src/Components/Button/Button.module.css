@@ -1,0 +1,33 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 24px;
+  background-color: #373832;
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btnAdd{
+  height: 25px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 24px;
+  background-color: #373832;
+  border: none;
+  color: #fff;
+  font-weight: 500;
+  size: auto;
+  text-align: center;
+
+}
+

@@ -1,0 +1,56 @@
+.boxprice{
+  display: flex;
+
+}
+.div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* background-color: rgba(177, 162, 162, 0.486); */
+  height: 60px;
+  width: 600px;
+  padding: 5px;
+}
+.div2 {
+  display: flex;
+  align-items: flex-start;
+  height: 30px;
+  width: 600px;
+  padding: 5px;
+}
+.price {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  width: 120px;
+
+  /* align-items: flex-start; */
+}
+
+.card{
+  min-height: 450px;
+}
+
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  justify-content: flex-start;
+
+  /* align-items: top; */
+  
+  height: 60px;
+  width: 150px;
+  padding: 5px;
+}
+
+
+
+
+
